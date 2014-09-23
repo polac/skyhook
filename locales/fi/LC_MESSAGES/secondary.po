@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Mika Impola <mika@impola.fi>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-05-06 04:18-0700\n"
+"PO-Revision-Date: 2014-05-07 06:55-0800\n"
+"Last-Translator: Mika Impola <mika@impola.fi>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "Passwords must match."
+msgstr "Salasanan pitää olla sama."
+
+msgid "A Blockchain wallet id is required."
+msgstr "Blockchain lompakon id vaaditaan."
+
+msgid "The main Blockchain password is required."
+msgstr "Blockchain salasana vaaditaan."
+
+msgid "Please choose a selection criteria."
+msgstr "Ole hyvä ja valitse valinta ehto."
+
+msgid "At least one pricing source is required."
+msgstr "Vähintään yksi kurssilähde pitää määritellä."
+
+msgid "Unsaved changes, discard?"
+msgstr "Tallentamattomia muutoksia, hylätäänkö?"
+
+msgid "Do you need more time?"
+msgstr "Tarvitsetko lisää aikaa?"
+
+msgid "More Time"
+msgstr "Lisää Aikaa"
+
+msgid "Cancel the transaction?"
+msgstr "Perutaanko transaktio?"
+
+msgid "Cancel:"
+msgstr "Peru:"
+
+msgid "Cancel"
+msgstr "Peru"
+
+msgid "Continue"
+msgstr "Jatka"
+
+msgid "Processing"
+msgstr "Käsitellään"
+
+msgid "Is this your address?"
+msgstr "Onko tämä osoitteesi?"
+
+msgid "Address Detected:"
+msgstr "Osoite Havaittu:"
+
+msgid "Yes"
+msgstr "Kyllä"
+
+msgid "No"
+msgstr "Ei"
+
+msgid "Invalid Email Address"
+msgstr "Epäkelpo Sähköpostiosoite"
+
+msgid "Specified address appears invalid."
+msgstr "Annettu osoite näyttää olevan väärä."
+
+msgid "Success"
+msgstr "Onnistui"
+
+msgid "Email address stored."
+msgstr "Sähköpostiosoite tallennettu."
+
+msgid "Ok"
+msgstr "Ok"
