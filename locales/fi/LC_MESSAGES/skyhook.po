@@ -374,11 +374,11 @@ msgstr "Syötä seteleitä"
 
 #: pages/purchase.phtml:27
 msgid "bitcoins will be sent to:"
-msgstr "bitcoinit lähetetään:"
+msgstr "bitcoinit lähetetään osoitteeseen:"
 
 #: pages/purchase.phtml:32
 msgid "Do Not Insert Bills Larger than"
-msgstr "Älä Syötä Seteleitä, Jotka Ovat Suurempia kuin"
+msgstr "Älä syötä seteleitä, jotka ovat suurempia kuin"
 
 #: pages/purchase.phtml:35 pages/receipt.phtml:23
 #: pages/emails/receipt.phtml:34
@@ -395,11 +395,11 @@ msgstr "..."
 
 #: pages/receipt.phtml:17
 msgid "transaction complete"
-msgstr "transaktio on valmis"
+msgstr "Transaktio on valmis"
 
 #: pages/receipt.phtml:20
 msgid "Bitcoin Address:"
-msgstr "Bitcoin-osoite:"
+msgstr "Bitcoin-osoitteeseen:"
 
 #: pages/receipt.phtml:22
 msgid "has been sent:"
@@ -407,19 +407,19 @@ msgstr "on lähetetty:"
 
 #: pages/receipt.phtml:24
 msgid "for the price of:"
-msgstr "kurssin ollessa:"
+msgstr "hintaan:"
 
 #: pages/receipt.phtml:39
 msgid "email me a receipt"
-msgstr "sähköpostita minulle kuitti"
+msgstr "Sähköpostita minulle kuitti"
 
 #: pages/receipt.phtml:43
 msgid "Invalid Email"
-msgstr "Virheellinen Sähköpostiosoite"
+msgstr "Virheellinen sähköpostiosoite"
 
 #: pages/receipt.phtml:49
 msgid "Email Sent"
-msgstr "Sähköposti Lähetetty"
+msgstr "Sähköposti lLähetetty"
 
 #: pages/receipt.phtml:55
 msgid "done"
