@@ -411,7 +411,7 @@ msgstr "hintaan:"
 
 #: pages/receipt.phtml:39
 msgid "email me a receipt"
-msgstr "Sähköpostita minulle kuitti"
+msgstr "Sähköpostita kuitti"
 
 #: pages/receipt.phtml:43
 msgid "Invalid Email"
@@ -419,7 +419,7 @@ msgstr "Virheellinen sähköpostiosoite"
 
 #: pages/receipt.phtml:49
 msgid "Email Sent"
-msgstr "Sähköposti lLähetetty"
+msgstr "Sähköposti lähetetty"
 
 #: pages/receipt.phtml:55
 msgid "done"
